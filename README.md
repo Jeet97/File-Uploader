@@ -1,2 +1,2 @@
 # File-Uploader
-File Uploading Backend Service implemented using Django rest api's.
+File Uploading Backend Service implemented using Django rest api.
